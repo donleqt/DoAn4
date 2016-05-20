@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn4", "DoAn4\DoAn4.csproj", "{A3741FD2-01BE-42F2-A4A9-1C92407385E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3741FD2-01BE-42F2-A4A9-1C92407385E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3741FD2-01BE-42F2-A4A9-1C92407385E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3741FD2-01BE-42F2-A4A9-1C92407385E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3741FD2-01BE-42F2-A4A9-1C92407385E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
